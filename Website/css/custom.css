@@ -1,0 +1,13 @@
+
+.tab-link {
+    background-color: #fff !important;
+}
+
+.tab-nav{
+    margin-bottom: 1.5rem;
+}
+
+.nav-tabs .nav-link:hover {
+    color: black !important;
+}
+
